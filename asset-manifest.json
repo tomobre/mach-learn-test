@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mach-learn-test/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/mach-learn-test/static/js/main.93a52799.chunk.js",
+    "main.js.map": "/mach-learn-test/static/js/main.93a52799.chunk.js.map",
+    "runtime-main.js": "/mach-learn-test/static/js/runtime-main.98405a11.js",
+    "runtime-main.js.map": "/mach-learn-test/static/js/runtime-main.98405a11.js.map",
+    "static/js/2.e436db7e.chunk.js": "/mach-learn-test/static/js/2.e436db7e.chunk.js",
+    "static/js/2.e436db7e.chunk.js.map": "/mach-learn-test/static/js/2.e436db7e.chunk.js.map",
+    "index.html": "/mach-learn-test/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/mach-learn-test/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.e436db7e.chunk.js.LICENSE.txt": "/mach-learn-test/static/js/2.e436db7e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98405a11.js",
+    "static/js/2.e436db7e.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.93a52799.chunk.js"
+  ]
+}
